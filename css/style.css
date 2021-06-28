@@ -1,3 +1,12 @@
 body{
     font-family: 'Open Sans', sans-serif;
+};
+.banner-container{
+    background-color: gray;
+}
+.container-text{
+    background-color: #8E8D8E;
+}
+.navbar-container{
+    background: #102040;
 }
