@@ -9,4 +9,46 @@ body{
 }
 .navbar-container{
     background: #102040;
+    top: 0;
+    position: sticky;
+    z-index: 2;
+}
+.redtype-color{
+    color: indianred;
+    font-weight: 900;
+}
+.education-container{
+    background-color: gray;
+}
+.circle{
+    background-color: indianred;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 5px;
+}
+.project-container{
+    background-color: turquoise;
+}
+.project-container-text{
+    text-decoration: none;
+}
+.inner-form{
+    background: black;
+}
+.hover-black:hover{
+    color: black;
+}
+.footer-container{
+    background-color: blue;
+}
+.circle-icon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
 }
